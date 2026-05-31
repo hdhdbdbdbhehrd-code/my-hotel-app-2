@@ -1,4 +1,5 @@
 {
   "buildCommand": "npm run build",
-  "framework": "other"
+  "outputDirectory": "dist/server",
+  "framework": null
 }
